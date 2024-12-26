@@ -65,9 +65,3 @@ This project is a simple Python code editor built using Tkinter. The editor allo
 ## Notes
 - Ensure that you have permission to execute Python files on your system.
 - The editor temporarily saves the code to `.temp_file.py` for execution.
-
-## Future Improvements
-- Add syntax highlighting for Python code.
-- Support for undo/redo operations.
-- Include line numbers in the editor.
-- Enable saving terminal output to a file.
